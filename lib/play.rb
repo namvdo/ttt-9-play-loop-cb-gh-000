@@ -39,8 +39,8 @@ end
 
 def play(board)
   star_turn = 1
+  turn++
   while input < 9
-        turn++
         turn
   end
 end
