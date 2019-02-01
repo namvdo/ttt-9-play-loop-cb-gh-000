@@ -38,7 +38,7 @@ end
 # Define your play method below
 
 def play(board)
-  star_turn = 1
+  input
   turn++
   while input < 9
         turn
