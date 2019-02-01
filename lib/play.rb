@@ -40,7 +40,7 @@ end
 def play(board)
   turn = 1
   turn += 1
-  while turn < 9
+  while turn < 10
     return move
   end
 end
