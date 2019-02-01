@@ -38,7 +38,8 @@ end
 # Define your play method below
 
 def play(board)
+  star_turn = 1
   while turn < 9
-    return turn
+        turn++
   end
 end
