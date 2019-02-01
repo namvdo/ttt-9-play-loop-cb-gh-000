@@ -39,6 +39,7 @@ end
 
 def play(board)
   while turn < 9
-    return turn(board)
+    user_play = turn(board)
+    return user_play
   end
 end
